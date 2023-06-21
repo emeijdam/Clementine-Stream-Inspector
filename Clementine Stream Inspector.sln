@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clementine Stream Inspector", "WinFormsApp1\Clementine Stream Inspector.csproj", "{060134A2-BD1D-430E-A088-92E2844C9744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|ARM.Build.0 = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|x64.Build.0 = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Debug|x86.Build.0 = Debug|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|ARM.ActiveCfg = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|ARM.Build.0 = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|ARM64.Build.0 = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|x64.ActiveCfg = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|x64.Build.0 = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|x86.ActiveCfg = Release|Any CPU
+		{060134A2-BD1D-430E-A088-92E2844C9744}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48A0941-1CD7-475E-B5CA-5645730818ED}
+	EndGlobalSection
+EndGlobal
